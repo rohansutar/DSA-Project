@@ -11,7 +11,7 @@ import java.util.Collections;
 public class CostRemovalElement {
 
     public static void main(String[] args) {
-        Integer [] arr={4,6,1};
+        Integer [] arr={6,2,8,4};
 
         Arrays.sort(arr, Collections.reverseOrder());
         int ans =0;
